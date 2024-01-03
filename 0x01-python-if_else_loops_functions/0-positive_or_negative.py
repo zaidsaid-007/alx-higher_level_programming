@@ -11,3 +11,4 @@ else:
     print(f"{number} is zero")
 
 # Newline added at the end of the file
+
