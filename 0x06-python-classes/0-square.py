@@ -5,5 +5,6 @@
 
 
 class Square():
+    def __init__(self, size):
+        self.size__size = size
     
-    pass
