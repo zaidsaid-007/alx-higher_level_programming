@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-safe_print_list.py
-# Ekun-Thomas Francis <ekun_tee@yahoo.com>
+# Zaid Mohammed Said  <zaidsaid007@gmail.com>
 
 
 def safe_print_list(my_list=[], x=0):
