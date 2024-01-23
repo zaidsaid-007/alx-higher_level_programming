@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-safe_print_integer_err.py
-# Ekun-Thomas Francis <ekun_tee@yahoo.com>
+# Zaid Mohammed Said <zaidsaid007@gmail.com>
 
 import sys
 
