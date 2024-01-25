@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Ekun-Thomas F <ekun_tee.com>
+# Zaid Mohammed Said <zaidsaid007@gmail.com>
 """Defines a matrix multiplication function."""
 
 
