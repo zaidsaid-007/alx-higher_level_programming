@@ -128,5 +128,5 @@ Prototypes for functions written in this project:
   status code `1`.
   
 ----------------------------------------------------------------------->  
-  Author | [Zaid Mohammed Said](https://github.com/zaidsaid-007)
+  Author | [Zaid Mohammed Said](https://github.com/zaidsaid-007)                                                                                                                            
 ----------------------------------------------------------------------->
