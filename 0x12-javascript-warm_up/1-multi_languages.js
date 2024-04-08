@@ -6,4 +6,4 @@ const js = 'JavaScript is amazing';
 
 console.log(c);
 console.log(py);
-console.log(j);
+console.log(js);
